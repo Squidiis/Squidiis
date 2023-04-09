@@ -1,4 +1,7 @@
-### Hello I am Squidi a hobby developer from Germany 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋%2C+I'm+Squidi!;I+am+a+hobby+developer+from+Germany.;&center=true&width=750&height=80&color=fcfcfc&vCenter=true&pause=5&size=30">
+</p>
+
 - I develop with python
 - I develop discord bots with pycord 
 
