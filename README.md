@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋%2C+I'm+Squidi!;I+am+a+hobby+developer+from+Germany.;If+you+want+a+discord+bot+contact+me. ;&center=true&width=750&height=80&color=fcfcfc&vCenter=true&pause=5&size=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋%2C+I'm+Squidi!;I+am+a+hobby+developer+from+Germany.;If+you+want+a+discord+bot+contact+me.;&center=true&width=750&height=80&color=fcfcfc&vCenter=true&pause=5&size=30">
 </p>
 
 - I develop with python
