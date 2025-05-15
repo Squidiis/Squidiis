@@ -12,12 +12,10 @@
     <img src="https://img.shields.io/discord/1040624306062889032?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Server">
   </a>
 </p>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Squidiis&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squidiis&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Squidiis&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squidiis&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
