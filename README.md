@@ -3,11 +3,21 @@
 </p>
 
 - I develop with python
-- I develop discord bots with pycord 
+- I develop discord bots with pycord
+- 
+<h3 align="center">My Discord Server:</h3>
 
-### My Discord Server:
-[![Discord](https://img.shields.io/discord/1040624306062889032?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/Zv5JtYhd9r)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Squidiis&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://discord.gg/Zv5JtYhd9r">
+    <img src="https://img.shields.io/discord/1040624306062889032?color=blue&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Server">
+  </a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Squidiis&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Squidiis&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squidiis&theme=radical" alt="GitHub Streak">
+</p>
 
