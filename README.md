@@ -15,6 +15,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Squidiis&show_icons=true&theme=radical" height="190"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squidiis&theme=radical" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Squidiis&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squidiis&theme=radical" height="170"/>
 </p>
