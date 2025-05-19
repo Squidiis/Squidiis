@@ -43,9 +43,9 @@
 ---
 <p align="center">
   <a href="https://github.com/Squidiis">
-    <img src="https://github-readme-stats.vercel.app/api?username=Squidiis&show_icons=true&theme=radical" height="170"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Squidiis&show_icons=true&theme=radical" height="160"/>
   </a>
   <a href="https://github.com/Squidiis">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squidiis&theme=radical" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squidiis&theme=radical" height="160"/>
   </a>
 </p>
