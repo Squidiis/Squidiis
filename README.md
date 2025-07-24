@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
----
-
-## 🙋‍♂️ About Me
+## About Me
 
 I'm **Squidi**, a passionate self-taught developer from Germany 🇩🇪.  
 I love building things — from small scripts to full-blown applications.
