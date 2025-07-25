@@ -14,9 +14,7 @@ I love building things — from small scripts to full-blown applications.
 - 🐍 My main language is **Python**, but I also work with **JavaScript**, **TypeScript**, and **Node.js**  
 - 📊 I build dashboards, bots, tools, and APIs — for fun or on request  
 
----
-
-<h3 align="center">💻 Languages I Use</h3>
+## 💻 Languages I Use
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
@@ -27,9 +25,7 @@ I love building things — from small scripts to full-blown applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 </p>
 
----
-
-<h3 align="center">🛠️ Tools & Platforms</h3>
+## 🛠️ Tools & Platforms
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
@@ -41,9 +37,7 @@ I love building things — from small scripts to full-blown applications.
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="45" />
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Squidiis">
@@ -53,8 +47,6 @@ I love building things — from small scripts to full-blown applications.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squidiis&theme=radical&border_radius=10" height="160"/>
   </a>
 </p>
-
----
 
 <h3 align="center">🌐 Connect With Me</h3>
 
