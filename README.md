@@ -1,18 +1,21 @@
+<!-- Header mit coolem Slice-Effekt -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ## About Me
 
-I'm **Squidi**, a passionate self-taught developer from Germany 🇩🇪.  
-I love building things — from small scripts to full-blown applications.
+Hey! I'm **Squidi** — a passionate self-taught developer from Germany 🇩🇪  
+I enjoy building all sorts of things — from handy scripts to full-blown applications.
 
-- 💬 I develop modern **Discord bots** (mainly with Pycord & discord.js)  
-- 🌐 I create **responsive websites** using HTML, CSS, JS/TS and frameworks  
-- ⚙️ I have solid experience in **API integration** and backend systems  
-- 🧠 I organize and automate workflows using **Notion**  
-- 🐍 My main language is **Python**, but I also work with **JavaScript**, **TypeScript**, and **Node.js**  
-- 📊 I build dashboards, bots, tools, and APIs — for fun or on request  
+### What I Love Doing
+
+- 🤖 Developing modern **Discord bots** (Pycord, discord.js)  
+- 🌐 Creating **responsive websites** using HTML, CSS, JS/TS & frameworks  
+- ⚙️ Integrating and working with **APIs** & backend logic  
+- 🧠 Organizing life & work via **Notion**  
+- 🐍 Main language: **Python**, but I also use **JavaScript**, **TypeScript**, **Node.js**  
+- 🛠️ Building dashboards, bots, automations — for fun or by request
 
 ## 💻 Languages I Use
 
@@ -25,7 +28,7 @@ I love building things — from small scripts to full-blown applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 </p>
 
-## 🛠️ Tools & Platforms
+## 🧰 Tools & Platforms
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
@@ -37,7 +40,13 @@ I love building things — from small scripts to full-blown applications.
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="45" />
 </p>
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Squidiis&theme=radical&no-frame=true&column=7" />
+</p>
+
+## 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Squidiis">
@@ -48,7 +57,16 @@ I love building things — from small scripts to full-blown applications.
   </a>
 </p>
 
-<h3 align="center">🌐 Connect With Me</h3>
+<!-- Optional: Snake activity graph (animated contribution heatmap) -->
+<!--
+<p align="center">
+  <img src="https://github.com/Squidiis/Squidiis/raw/output/github-contribution-grid-snake.svg" />
+</p>
+-->
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://discord.gg/Zv5JtYhd9r">
