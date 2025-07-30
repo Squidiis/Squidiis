@@ -5,8 +5,8 @@
 
 ## About Me
 
-Hey! I'm **Squidi** — a passionate self-taught developer from Germany 🇩🇪  
-I enjoy building all sorts of things — from handy scripts to full-blown applications.
+Hey! I'm **Squidi** a passionate self-taught developer from Germany 🇩🇪  
+I enjoy building all sorts of things from handy scripts to full-blown applications.
 
 ### What I Love Doing
 
@@ -57,14 +57,6 @@ I enjoy building all sorts of things — from handy scripts to full-blown applic
   </a>
 </p>
 
-<!-- Optional: Snake activity graph (animated contribution heatmap) -->
-<!--
-<p align="center">
-  <img src="https://github.com/Squidiis/Squidiis/raw/output/github-contribution-grid-snake.svg" />
-</p>
--->
-
----
 
 ## 🌐 Connect with Me
 
