@@ -1,6 +1,6 @@
 <!-- Header mit coolem Slice-Effekt -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
 ## About Me
