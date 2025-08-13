@@ -67,5 +67,5 @@ I enjoy building all sorts of things from handy scripts to full-blown applicatio
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontSize=40&fontColor=ffffff&text=" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </p>
