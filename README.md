@@ -43,7 +43,7 @@ I enjoy building all sorts of things from handy scripts to full-blown applicatio
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Squidiis&theme=radical&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Squidiis&theme=radical&no-frame=true&row=2&column=5&margin-w=10&margin-h=10&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,MultipleLang" />
 </p>
 
 ## 📈 GitHub Stats
