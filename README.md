@@ -57,6 +57,16 @@ I enjoy building all sorts of things from handy scripts to full-blown applicatio
   </a>
 </p>
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Squidiis/Shiro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Squidiis&repo=Shiro&theme=radical&border_radius=10" />
+  </a>
+  <a href="https://github.com/Squidiis/PROJECT-NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Squidiis&repo=NotionBridge&theme=radical&border_radius=10" />
+  </a>
+</p>
 
 ## 🌐 Connect with Me
 
