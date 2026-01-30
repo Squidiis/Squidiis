@@ -71,7 +71,7 @@ I enjoy building all sorts of things from handy scripts to full-blown applicatio
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://discord.gg/Zv5JtYhd9r">
+  <a href="https://discord.gg/3sZhp3q6bD">
     <img src="https://img.shields.io/discord/1040624306062889032?color=5865F2&label=Join%20My%20Server&logo=discord&logoColor=white&style=for-the-badge" />
   </a>
 </p>
