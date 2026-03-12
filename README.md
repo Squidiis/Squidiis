@@ -68,6 +68,11 @@ I enjoy building all sorts of things from handy scripts to full-blown applicatio
   </a>
 </p>
 
+## 🧩 Other Stuff I Made
+
+- 🧠 **[Notion Project Manager](https://squidi.gumroad.com/l/cuxtf)**  
+  Structured Notion workspace for managing projects, tasks, deadlines and notes.
+
 ## 🌐 Connect with Me
 
 <p align="center">
