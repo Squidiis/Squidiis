@@ -1,80 +1,53 @@
-<!-- Header mit coolem Slice-Effekt -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontSize=40&fontColor=ffffff&text=Welcome%20to%20my%20GitHub!" />
+# Squidi
+**Software Developer** | Germany
+
+I am a developer focused on building scalable full-stack web applications, automated workflows, and custom backend systems. My work involves designing APIs, managing databases, and integrating LLMs to create practical, intelligent solutions.
+
+---
+
+## Technical Stack
+
+### Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
-## About Me
-
-Hey! I'm **Squidi** a passionate self-taught developer from Germany 🇩🇪  
-I enjoy building all sorts of things from handy scripts to full-blown applications.
-
-### What I Love Doing
-
-- 🤖 Developing modern **Discord bots** (Pycord, discord.js)  
-- 🌐 Creating **responsive websites** using HTML, CSS, JS/TS & frameworks  
-- ⚙️ Integrating and working with **APIs** & backend logic  
-- 🧠 Organizing life & work via **Notion**  
-- 🐍 Main language: **Python**, but I also use **JavaScript**, **TypeScript**, **Node.js**  
-- 🛠️ Building dashboards, bots, automations — for fun or by request
-
-## 💻 Languages I Use
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+### Infrastructure & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## 🧰 Tools & Platforms
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="45" />
+### APIs & Integrations
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
+---
 
-<p align="center">
-  <a href="https://github.com/Squidiis">
-    <img src="https://github-readme-stats.vercel.app/api?username=Squidiis&show_icons=true&theme=radical&border_radius=10" height="160"/>
-  </a>
-  <a href="https://github.com/Squidiis">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Squidiis&theme=radical&border_radius=10" height="160"/>
-  </a>
-</p>
+## Featured Work
 
-## 🚀 Featured Projects
+**[Shiro](https://github.com/Squidiis/Shiro)**  
+> A scalable Discord application built with Python. Designed for automated server management, efficient moderation, and community engagement.
 
-<p align="center">
-  <a href="https://github.com/Squidiis/Shiro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Squidiis&repo=Shiro&theme=radical&border_radius=10" />
-  </a>
-  <a href="https://github.com/Squidiis/PROJECT-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Squidiis&repo=NotionBridge&theme=radical&border_radius=10" />
-  </a>
-</p>
+**[NotionBridge](https://github.com/Squidiis/NotionBridge)**  
+> An integration service that connects custom webhooks and external APIs directly into Notion databases for streamlined workflow automation.
 
-## 🧩 Other Stuff I Made
+**[Notion Project Manager](https://squidi.gumroad.com/l/cuxtf)**  
+> A comprehensive workspace system engineered for tracking multi-stage projects, managing deadlines, and organizing technical documentation.
 
-- 🧠 **[Notion Project Manager](https://squidi.gumroad.com/l/cuxtf)**  
-  Structured Notion workspace for managing projects, tasks, deadlines and notes.
+---
 
-## 🌐 Connect with Me
+## Contact
 
-<p align="center">
-  <a href="https://discord.gg/3sZhp3q6bD">
-    <img src="https://img.shields.io/discord/1040624306062889032?color=5865F2&label=Join%20My%20Server&logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
-</p>
+<a href="https://discord.gg/3sZhp3q6bD">
+  <img src="https://img.shields.io/discord/1040624306062889032?color=5865F2&label=Discord%20Community&logo=discord&logoColor=white&style=flat-square" />
+</a>
