@@ -35,11 +35,18 @@ I am a developer focused on building scalable full-stack web applications, autom
 
 ## Featured Work
 
+### Open Source Projects
+
+**[OriBill](https://github.com/Squidiis/OriBill)** *(Main Project)*  
+> A modern billing and invoicing web application built with TypeScript and React. Designed to simplify invoice management and workflow tracking, with an expandable template system currently in active development.
+
 **[Shiro](https://github.com/Squidiis/Shiro)**  
 > A scalable Discord application built with Python. Designed for automated server management, efficient moderation, and community engagement.
 
 **[NotionBridge](https://github.com/Squidiis/NotionBridge)**  
-> An integration service that connects custom webhooks and external APIs directly into Notion databases for streamlined workflow automation.
+> An integration service connecting custom webhooks and external APIs directly into Notion databases for streamlined workflow automation.
+
+### Side Projects & Products
 
 **[Notion Project Manager](https://squidi.gumroad.com/l/cuxtf)**  
 > A comprehensive workspace system engineered for tracking multi-stage projects, managing deadlines, and organizing technical documentation.
